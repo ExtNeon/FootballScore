@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Футбольное табло</string>
+    <string name="reset">Сбросить счёт</string>
+    <string name="tag_add">Добавить очко</string>
+    <string name="too_fast_notify">СЛИШКОМ БЫСТРО!</string>
+    <string name="CSKA">ЦСКА</string>
+    <string name="ZENYTH">Зенит</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Football Score</string>
+    <string name="reset">Reset score</string>
+    <string name="tag_add">Add score</string>
+    <string name="too_fast_notify">TOO FAST!</string>
+    <string name="CSKA">CSKA</string>
+    <string name="ZENYTH">Zenyth</string>
+</resources>
